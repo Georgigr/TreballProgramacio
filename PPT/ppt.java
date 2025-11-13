@@ -1,4 +1,3 @@
-
 package TreballProgramacio.PPT;
 
 public class ppt {
